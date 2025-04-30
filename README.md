@@ -3,9 +3,9 @@
 
 ## 👥 Team Members
 
-- **Mayank Garg** — Roll No: 2301730272  
-- **Aarav Kumar** — Roll No: 2301730271  
-- **Aditya Goyal** — Roll No: 2301730252
+- **Mayank Garg** — Roll No: 2301730272  BTech CSE AI/ML Sec-D
+- **Aarav Kumar** — Roll No: 2301730271  BTech CSE AI/ML Sec-D
+- **Aditya Goyal** — Roll No: 2301730252 BTech CSE AI/ML Sec-D
 
 ## 📄 Project Description
 
